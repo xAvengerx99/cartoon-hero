@@ -1,0 +1,16 @@
+body{
+	background-color: lightgrey;
+}
+h1{
+	color: gold; 
+	font-size: 70px;
+	text-decoration: underline;
+}
+h2{
+	color: turquoise; 
+	font-size: 120px;
+	text-decoration: underline;
+}
+.small{
+	font-size: 12px;
+}		
